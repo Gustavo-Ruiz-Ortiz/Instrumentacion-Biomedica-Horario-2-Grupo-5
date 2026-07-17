@@ -1,6 +1,7 @@
 # Instrumentacion-Biomedica-Horario-2-Grupo-5
 
 Sistema portátil de triaje cardiopulmonar con corrección por altitud - HealthyPi 5 / RP2040
+<img width="1280" height="872" alt="image" src="https://github.com/user-attachments/assets/847c19cd-6a01-42ac-aa32-f9816eea0900" />
 
 ## Tabla de contenidos
 
