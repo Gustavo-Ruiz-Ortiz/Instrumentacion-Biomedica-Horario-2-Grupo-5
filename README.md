@@ -20,7 +20,7 @@ Curso: Instrumentación Biomédica — Universidad Peruana Cayetano Heredia (UPC
 
 ## Tabla de contenidos
 
--[Equipo](#equipo)
+- [Equipo](#equipo)
 - [Descripción del proyecto](#descripción-del-proyecto)
 - [Problema que resuelve](#problema-que-resuelve)
 - [Características principales](#características-principales)
