@@ -8,7 +8,7 @@ Sistema portátil de triaje cardiopulmonar con corrección por altitud - Healthy
 | Integrante | Aporte principal |
 |---|---|
 | Aldo David Manturano Lopez | Desarrollo de la adquisición de señales, impresión 3D y electrónica del dispositivo|
-| David Eddy Aguilar Yahuana | No responde aún |
+| David Eddy Aguilar Yahuana | Desarrollo de la adquisición de señales, soporte bibliográfico |
 | Juan Raul Ramirez Mendoza | Nada |
 | Alejandra Ivonne Gamarra Leyva | Desarrollo del contexto y problemática, lista de exigencias, diseño y modelado 3D del enclosure.|
 | Davidt Brayamn Fernandez Bernaola | Desarrollo del contexto problemático y su estructura de funciones general, además de ello, gestionar el uso del dispositivo en escenarios de uso real.|
