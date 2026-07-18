@@ -60,33 +60,8 @@ Los puestos de salud rurales altoandinos enfrentan dos limitaciones simultáneas
 ## Arquitectura del sistema
 
 ```
-┌─────────────────────────────┐
-│        Sensores              │
-│  MAX30001 (ECG + Resp.)      │
-│  AFE4400 (PPG / SpO2)        │
-│  BME280 (Altitud)            │
-└──────────────┬───────────────┘
-               │  I2C / Qwiic
-               ▼
-┌─────────────────────────────┐
-│   HealthyPi 5 — RP2040       │
-│   Firmware: Zephyr RTOS      │
-│   Lógica de corrección       │
-│   por altitud (percentiles)  │
-└──────────────┬───────────────┘
-       ┌────────┴────────┐
-       ▼                 ▼
-┌─────────────┐   ┌─────────────────┐
-│ Pantalla TFT │   │  MicroSD (log)   │
-└─────────────┘   └────────┬────────┘
-                            │ export
-                            ▼
-                ┌───────────────────────┐
-                │ Interfaz Python        │
-                │ (Streamlit)             │
-                │ Filtrado digital        │
-                │ Acceso por token OTP    │
-                └───────────────────────┘
+<img width="945" height="516" alt="image" src="https://github.com/user-attachments/assets/70bf2bff-9037-4ef1-b2e3-43b3b560ad79" />
+
 ```
 
 ## Stack tecnológico
