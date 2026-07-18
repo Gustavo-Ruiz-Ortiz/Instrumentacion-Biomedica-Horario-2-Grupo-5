@@ -23,7 +23,7 @@ Sistema portátil de triaje cardiopulmonar con corrección por altitud - Healthy
 |---|---|
 | Aldo David Manturano Lopez | Desarrollo de la adquisición de señales, impresión 3D y electrónica del dispositivo|
 | David Eddy Aguilar Yahuana | Desarrollo de la adquisición de señales, soporte bibliográfico |
-| Juan Raul Ramirez Mendoza | Nada |
+| Juan Raul Ramirez Mendoza | Desarrollo de página web y filtrado de señales |
 | Alejandra Ivonne Gamarra Leyva | Desarrollo del contexto de uso, problemática y justificación bibliográfica, lista de exigencias, diseño y modelado 3D del enclosure.|
 | Davidt Brayamn Fernandez Bernaola | Desarrollo del contexto problemático y su estructura de funciones general, además de ello, gestionar el uso del dispositivo en escenarios de uso real.|
 | Gustavo Andre Ruiz Ortiz | Programación e integración de sensores; flasheo y reprogramación del firmware (Python y Zephyr) para el ajuste de lectura de altitud y la reinterpretación de SpO2 según altitud; diseño e implementación del filtrado digital de señales, y ejecución de las pruebas de validación de la parte electrónica del sistema. Desarrollo del repositorio de GitHub. |
